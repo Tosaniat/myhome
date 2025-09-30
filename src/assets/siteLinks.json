@@ -16,22 +16,17 @@
   },
   {
     "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "name": "codeforces",
+    "link": "https://codeforces.com/profile/scy_alicization"
   },
   {
     "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
-  },
-  {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "name": "codeforces2",
+    "link": "https://codeforces.com/profile/Tosania"
   },
   {
     "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "name": "luogu",
+    "link": "https://www.luogu.com.cn/user/87313"
   }
 ]
